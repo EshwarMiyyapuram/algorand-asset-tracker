@@ -1,0 +1,10 @@
+Algorand Project Plan
+
+Week 1: Setup Algorand environment
+Week 2: Create Algorand account
+Week 3: Learn Algorand SDK
+Week 4: Create Smart Contract
+Week 5: Asset Creation
+Week 6: Asset Transfer
+Week 7: Testing
+Week 8: Final Project
